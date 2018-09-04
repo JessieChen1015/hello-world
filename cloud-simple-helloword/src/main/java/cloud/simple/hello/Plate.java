@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Plate {
-	//装鸡蛋的盘子
+	//装鸡蛋的盘子1
 	List<Object> eggs = new ArrayList<Object>();
 	//取鸡蛋
 	public synchronized Object getEgg(){
